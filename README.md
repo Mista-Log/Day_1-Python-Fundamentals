@@ -12,6 +12,11 @@ This repository contains a collection of seven simple games created using core P
 6. [License](#license)
 
 ## Games Overview
+This project includes the following Python games and utilities:
+- Text-based games and applications.
+- Built using Python fundamentals such as functions, loops, conditionals, and file handling.
+- Great for beginners to learn and practice Python programming.
+
 This project includes the following Python games:
 - Calculator game
 - Encryption_decryption gameplay
