@@ -20,7 +20,7 @@ ___________              __  .__
       """)
 
 choice = int(input(""""
-    Here are games you would love to test and play
+    Welcome to python's game collection 
     1. Calculator
     2. Guess the number
     3. To_do List
