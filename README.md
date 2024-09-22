@@ -27,7 +27,7 @@ To run these games, you'll need to have Python installed. Follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/username/python-games-collection.git
+git@github.com:Mista-Log/Day_1-Python-Fundamentals.git
 
 # Navigate into the directory
-cd python-games-collection
+cd Day_1-Python-Fundamentals
